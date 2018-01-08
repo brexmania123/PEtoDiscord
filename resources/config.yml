@@ -1,0 +1,22 @@
+---
+# discord text-channel webhook
+webhook1: ""
+
+# webhook username
+username1: ""
+
+# webhook avatar
+avatar1: ""
+
+# log commands?
+logs: false
+
+# logs text-channel webhook
+webhook2: ""
+
+# logs username
+username2: ""
+
+# logs avatar
+avatar2: ""
+...
